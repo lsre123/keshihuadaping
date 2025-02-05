@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "710000",
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          ["..."]
+        ]
+      },
+      "properties": {
+        "cp": [121.509062, 25.044332],
+        "name": "台湾",
+        "childNum": 1
+      }
+    }
+  ]
+} 
